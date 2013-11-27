@@ -3,10 +3,6 @@ MC504-Projeto2
 
 Projeto feito por Hélder Lima da Rocha e Lucas Mageste de Almeida, graduandos em Engenharia Elétrica pela UNICAMP para a disciplina de MC504 (Sistemas Operacionais).
 
-/*Tarefa*/ 
-
-Arquivo README contendo a descrição da chamada e como os outros 
-arquivos devem ser instalados/testados.
 
 /*Objetivo*/
 
